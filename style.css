@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: hsl(325, 88%, 55%);
+    background-color: hsl(173deg 77% 27%);
     color: #fff;
     text-align: center;
     padding: 2rem 0;
@@ -16,7 +16,7 @@ header {
 }
 
 nav {
-    background-color: hsl(337, 88%, 55%);
+    background-color: hsl(173deg 77% 27%);
     color: #fff;
     text-align: center;
 }
